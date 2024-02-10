@@ -1,0 +1,3 @@
+/mnt/c/pcpp/CMakeFiles/code.dir
+/mnt/c/pcpp/CMakeFiles/edit_cache.dir
+/mnt/c/pcpp/CMakeFiles/rebuild_cache.dir

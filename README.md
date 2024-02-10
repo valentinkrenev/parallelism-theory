@@ -1,1 +1,3 @@
-# parallelism-theory
+
+
+# It`s repo for parallelism-theory homeworks

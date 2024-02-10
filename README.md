@@ -1,7 +1,5 @@
 # parallelism-theory
 
-# parallelism-theory
-
 ## Запуск с FLOAT
 
 ```bash

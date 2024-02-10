@@ -1,6 +1,6 @@
 CXXFLAGS =  
 
-ifeq ($(USE_FLOAT),1)
+ifeq ($(USE_FLOAT),ON)
 	CXXFLAGS += -DUSE_FLOAT
 endif
 

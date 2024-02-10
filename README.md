@@ -11,3 +11,15 @@ make USE_FLOAT=ON && ./code
 ```bash
 make && ./code
 ```
+
+## Вывод
+
+ FLOAT
+```bash
+Summed: -0.0277862
+```
+
+ DOUBLE
+```bash
+Summed: 4.89582e-11
+```

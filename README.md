@@ -14,12 +14,12 @@ cmake -DUSE_FLOAT=OFF . && cmake --build ./ && ./code
 
 ## Вывод
 
-### FLOAT
+ FLOAT
 ```bash
 Summed: -0.0277862
 ```
 
-### DOUBLE
+ DOUBLE
 ```bash
 Summed: 4.89582e-11
 ```
